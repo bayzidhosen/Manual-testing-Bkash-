@@ -6,15 +6,15 @@
 ### Test Case Parameters:
 
 #### Test Case ID
-.Test Scenario
-Test Case Title
-Prerequisite
-Test Steps
-Test Data
-Expected Result
-Actual Result
-Status
-Remarks
+-Test Scenario
+-Test Case Title
+-Prerequisite
+-Test Steps
+-Test Data
+-Expected Result
+-Actual Result
+-Status
+-Remarks
 
 ### What I have done?
 #### I have created the test cases (Positive & Negative) based on two scenarios:-
