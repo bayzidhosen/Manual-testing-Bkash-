@@ -6,7 +6,7 @@
 ### Test Case Parameters:
 
 #### Test Case ID
-+Test Scenario
++ Test Scenario
 -Test Case Title
 -Prerequisite
 -Test Steps
